@@ -1,0 +1,6 @@
+# ninja log v6
+2	277	7681758065893387	CMakeFiles/sem_2_laboratornaya_7.dir/main.c.obj	81bd99606f6a1c43
+277	463	7681758068644895	sem_2_laboratornaya_7.exe	1d18b49c7c1b6b1
+2	169	7681749731063306	CMakeFiles/sem_2_laboratornaya_7.dir/addictional_functions.c.obj	cbc3a5830077d178
+19	140	7681714795833664	CMakeFiles/sem_2_laboratornaya_7.dir/Tree.c.obj	e0f72f8e57f1c1d0
+1	241	7681760861281924	build.ninja	165ff166c71fcae5
